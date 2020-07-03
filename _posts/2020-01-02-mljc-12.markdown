@@ -1,0 +1,74 @@
+---
+title:  "Machine Learning Journal Club #12"
+date:   2020-01-01 21:44:23
+categories: [machinelearning]
+tags: [machine learning, journal club]
+---
+## A Simple Framework for Contrastive Learning of Visual Representations
+### Step 1: Introduction
+Explain the clinical question that prompt- ed you to consult the literature and what drew you to the article.
+https://arxiv.org/pdf/2002.05709.pdf
+
+### Step 2: Who wrote the paper?
+Consider the title of the paper, the authors and their affiliated institution(s). Are there any outstanding features, e.g. a first study of its kind, a well-known author or institution?
+What is the impact factor of the journal? What is the circulation (i.e. regional, national or international) and who is the readership?
+Try to ignore the abstract initially. Reading the author’s stated conclusions before forming your own ideas about the validity of the paper may influence your appraisal.
+
+### Step 3: Hypothesis
+What is the research question? Is it well constructed? Does it observe the four basic components (PICO) of a good research question?
+n Population – who was studied?
+n Intervention – what was the interven-
+tion tested?
+n Control – what was the alternative that
+the intervention was compared to?
+n Outcome – what was the nature of the outcome measured? (Van Loveren and
+Aartman, 2007).
+
+### Step 4: appraise the evidence base
+Read the key references and related papers. What is already known on the subject? Is this correctly presented? Is the hypothesis correct? Is the question relevant and impor- tant in the context of the existing litera- ture? What does the study contribute to
+the existing literature?
+The introduction will usually contain a
+statement validating the content of the article by placing it in the context of the wider literature. For example, ‘Intervention ‘x’ has been shown to show significant reduction in patient group ‘y’. However, no studies to date have assessed the effect of ‘x’ in patients with a history of ‘z’.’ (adapted from Schwartz et al, 2007).
+
+### Step 5: study design
+Consider the following:
+The study type
+Is it appropriate to the research question and the subject under investigation, e.g. randomized controlled trial, case control, meta-analysis, cross-sectional, descriptive (Schwartz et al, 2007)?
+The study population
+Can the results of the study be translated to the general population? Is the patient group representative of the normal popula- tion? If not, is this addressed in the text?
+Randomization
+How are the participants allocated into the groups?
+Bias
+This refers to a flaw in impartiality that introduces systematic error into the meth- odology and results of a study.
+Is the research method exposed to bias?
+Has randomization been used to reduce experimenter bias?
+What form of blinding or masking has been used to reduce experimental or obser- vational bias?
+Inclusion and exclusion criteria
+Are these appropriate and clearly stated? Can you identify any oversights that may affect the validity of the study?
+
+### Step 6: is the method thorough?
+A flawed methodology will undermine the validity of the results. Consider the following:
+Was the method and approach to the study appropriately diligent? Were proc- esses consistent? Was follow up complete and consistent in each group? What out- come measures were used and were they appropriate?
+Are the statistical tools adopted suitable and correctly interpreted by the investiga- tors?
+
+Have the authors made a power state- ment (Table 2)? What significance level has been used (P value)? Has the power of the study been stated, does it exceed 80%? Was a power analysis carried out? Was this before the study or post-hoc (Sexton et al, 2008)? Is the study sufficiently powered to eliminate errors? Do the data exhibit low variability? What is the effect size?
+
+### Step 7: results
+Are the results clearly stated? Have any results been ignored and why? Is the result statistically significant, i.e. is the P value less than 0.05 (is the null hypothesis rejected)? (Petrie, 2010).
+Remember to review supplementary graphs and tables and consider whether they are accurate and represent the data presented in the text.
+
+### Step 8: discussion and interpretation
+Discuss the strengths and weaknesses of the study.
+Do the results support the conclusions? Often the conclusions will exceed the scope of the evidence base in the preceding paper.
+Consider the statistical significance vs the clinical significance? Does the article acknowledge the relevant literature and other approaches? Before concluding, the authors will often include a discussion of the limitations of the study. Close atten- tion should be paid to this to ensure a fair appraisal of the author’s claims.
+Have the authors declared any conflicts of interest?
+
+### Step 9: clinical context
+End your appraisal by assessing how the paper might change clinical practice. You might refer back to the clinical question that first drew you to the article.
+
+### Step 10: output
+Having critically appraised and presented the article, consider whether your com- ments would be of interest to the publish- ing journal in the form of a letter to the editor. Particular points of merit, in addi- tion to inconsistencies or statistical short- fallings, are of interest to the journal, its readership and the author. Writing letters to the editor is a useful way to hone writing skills and, if accepted, are often published quickly and enhance a CV. Often, the arti- cle may suggest areas for further research.
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help
